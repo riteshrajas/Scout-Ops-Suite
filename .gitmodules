@@ -6,4 +6,4 @@
 	url = https://github.com/riteshrajas/Scout-Ops-Server.git
 [submodule "Scout-Ops-WindowsApp"]
 	path = Scout-Ops-WindowsApp
-	url = https://github.com/riteshrajas/Scout-Ops-WindowsApp
+	url = https://github.com/riteshrajas/Scout-Ops-WindowsApp.git
